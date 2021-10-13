@@ -1,0 +1,16 @@
+C:\Users\eldar\Desktop\GitHub\examWork\SenderClient\bin\Debug\SenderClient.exe.config
+C:\Users\eldar\Desktop\GitHub\examWork\SenderClient\bin\Debug\SenderClient.exe
+C:\Users\eldar\Desktop\GitHub\examWork\SenderClient\bin\Debug\SenderClient.pdb
+C:\Users\eldar\Desktop\GitHub\examWork\SenderClient\obj\Debug\SenderClient.csproj.AssemblyReference.cache
+C:\Users\eldar\Desktop\GitHub\examWork\SenderClient\obj\Debug\SenderClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\eldar\Desktop\GitHub\examWork\SenderClient\obj\Debug\MainWindow.g.cs
+C:\Users\eldar\Desktop\GitHub\examWork\SenderClient\obj\Debug\App.g.cs
+C:\Users\eldar\Desktop\GitHub\examWork\SenderClient\obj\Debug\SenderClient_MarkupCompile.cache
+C:\Users\eldar\Desktop\GitHub\examWork\SenderClient\obj\Debug\SenderClient_MarkupCompile.lref
+C:\Users\eldar\Desktop\GitHub\examWork\SenderClient\obj\Debug\MainWindow.baml
+C:\Users\eldar\Desktop\GitHub\examWork\SenderClient\obj\Debug\SenderClient.g.resources
+C:\Users\eldar\Desktop\GitHub\examWork\SenderClient\obj\Debug\SenderClient.Properties.Resources.resources
+C:\Users\eldar\Desktop\GitHub\examWork\SenderClient\obj\Debug\SenderClient.csproj.GenerateResource.cache
+C:\Users\eldar\Desktop\GitHub\examWork\SenderClient\obj\Debug\SenderClient.csproj.CoreCompileInputs.cache
+C:\Users\eldar\Desktop\GitHub\examWork\SenderClient\obj\Debug\SenderClient.exe
+C:\Users\eldar\Desktop\GitHub\examWork\SenderClient\obj\Debug\SenderClient.pdb
